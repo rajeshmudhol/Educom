@@ -1,0 +1,228 @@
+.one-cyber h2{
+    margin-right: 890px;
+    position: relative;
+    top: 20px;
+    color: aliceblue;
+}
+.one-cyber i{
+    position: relative;
+    right: 590px;
+    top: 20px;
+    color: gold;
+}
+.one-cyber h4{
+    margin-right: 940px;
+    position: relative;
+    bottom: 23px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.one-cyber h5{
+    margin-right: 610px;
+    position: relative;
+    bottom: 68px;
+    font-size: 16px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.one-cyber p{
+    float: left;
+    margin-top: -10px;
+    margin-left: 45px;
+    position: relative;
+    bottom: 30px;
+    color: aliceblue;
+
+
+}
+.one-cyber{
+    width: 100%;
+    height: 300px;
+    /* background-color: rgb(99, 110, 207); */
+    background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg);
+    border-radius: 30px;
+}
+.cybe-skill1 h2{
+    margin-right: 1000px;
+    font-weight: 600;
+
+}
+.cybe-skill1 p{
+    float: left;
+    margin-right: 1000px;
+    margin-left: 50px;
+    /* margin-bottom: -px; */
+
+}
+.cybe-skill1{
+    width: 100%;
+    height: 650px;
+    background-color: azure;
+    border-radius: 30px;
+}
+
+.cybe-learn h2{
+    margin-right: 1050px;
+    font-weight: 600;
+
+}
+#exe{
+margin-right: 70%;
+    position: relative;
+    top: 20px;
+    width: 245px;
+    height: 30px;
+    background-color: rgb(219, 248, 248);
+    margin-left: 50px;
+    border-radius: 15px;
+
+
+}
+#mp{
+    margin-right: 60%;
+    position: relative;
+    top: 40px;
+    width: 235px;
+    height: 30px;
+    background-color: rgb(219, 248, 248);
+    margin-left: 50px;
+    border-radius: 15px;
+}
+#sec{
+    margin-right: 60%;
+    position: relative;
+    top: 60px;
+    width: 225px;
+    height: 30px;
+    background-color: rgb(219, 248, 248);
+    margin-left: 50px;
+    border-radius: 15px;
+}
+#see{
+    margin-right: 60%;
+    position: relative;
+    top: 15px;
+    width: 220px;
+    height: 30px;
+    background-color: rgb(219, 248, 248);
+    margin-left: 320px;
+    border-radius: 15px;
+}
+/* #incxo{
+    margin-right: 60%;
+    position: relative;
+    top: 15px;
+    width: 210px;
+    height: 30px;
+    background-color: rgb(219, 248, 248);
+    margin-left: 300px;
+    border-radius: 15px; */
+
+.cybe-learn{
+    width: 100%;
+    height: 300px;
+    background-color:  azure;
+    border-radius: 30px;
+}
+.container5{
+    width: 90 !important;
+    margin: o auto;
+
+}
+.intr-proj{
+    width: 100%;
+    height: 500px;
+    background-color:azure ;
+    border-radius: 30px;
+}
+.intr-prod{
+    width: 28%;
+height: 400px; 
+background-color: rgb(234, 242, 242);;   
+float: left;
+margin-left: 30px;
+position: relative;
+margin-left: 60px;
+top: 20px;
+border-radius: 30px;
+}
+.intr-proj h2{
+    margin-right: 950px;
+}
+.intr-prod h4{
+    margin-right: 270px;
+    font-weight: 500;
+}
+.intr-prod img{
+    width: 120px;
+    position: relative;
+    top: 130px;
+    right: 104px;
+    height: 50px;
+}
+.intr-prod h3{
+   font-weight: 500; 
+   /* float: left; */
+
+}
+.intr-prod p{
+    float: left;
+    margin-top: -10px;
+    margin-left: 20px;
+    position: relative;
+    top: 60px;
+
+}
+
+.container6{
+    width: 90 !important;
+    width:0 auto;
+
+}
+.intr-reviw{
+    width: 100%;
+    height: 300px;
+background-color: azure ;
+border-radius: 30px;
+}
+.intr-reviw h2{
+    margin-right: 750px;
+}
+.intr-rev{
+    width: 25%;
+    height: 300px;
+
+}
+
+.intr-rev{
+    width: 40%;
+    height: 300px;
+    background-color: rgb(234, 242, 242);;
+    float: left;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.intr-rev p{
+    float: left;
+    margin-top: -10px;
+    position: relative;
+    top: 10px;
+    margin-left: 20px;
+}
+.intr-rev i{
+    color: gold;
+    position: relative;
+    bottom: 60px;
+}
+.intr-rev img{
+    width: 100px;
+    position: relative;
+    right: 170px;
+    top: 50px;
+    height: 90px;
+}
+.intr-rev h3{
+    position: relative;
+    bottom: 60px;
+}
+

@@ -1,0 +1,369 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.c-main{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+}
+.c-profile{
+    height: 680px;
+    width: 23%;
+    margin: 20px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+    border-radius: 10px;
+   
+}
+.c-profile img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top:60px ;
+}
+.c-profile p{
+    margin-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.c-profile h3{
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p-head{
+    height: 100px;
+    width: 100%;
+    background-color: #0f90ec;
+    border-radius: 10px 10px 0px 0px;
+}
+.view-profile{
+    height: 30px;
+    width: 80%;
+    border-radius: 7px;
+    border: solid rgb(212, 185, 185) 1px;
+   margin-left: 30px;
+   margin-top: 50px;
+}
+.contributes{
+    height: 350px;
+    width: 100%;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+}
+.contributes h2{
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.date{
+    height: 40px;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(247, 236, 236);
+}
+#all-time{
+    position: relative;
+    right: 90px;
+    top: 10px;
+}
+#month{
+    position: relative;
+    bottom: 70px;
+}
+#day{
+    position: relative;
+    bottom: 150px;
+    left: 90px;
+}
+.list{
+    height: 200px;
+    width: 100%;
+    list-style: none;
+}
+#profile-one{
+    height: 50px;
+    width: 100%;
+}
+.profile-one img{
+    height: 50px;
+    width: 50px;
+   position: relative;
+   right: 100px;
+   bottom: 30px;
+    
+}
+#first-name{
+    position: relative;
+    bottom: 130px;
+    font-size: 20px;
+}
+.profile-two img{
+    height: 50px;
+    width: 50px;
+   position: relative;
+   right: 100px;
+   bottom: 150px;
+    
+}
+#two-name{
+    position: relative;
+    bottom: 250px;
+    font-size: 20px;
+}
+
+.c-banner{
+    height: 750px;
+    width: 95%;
+    margin-top: 15px;
+    border: 1px solid rgb(221, 218, 218);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+}
+.c-banner img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: relative;
+    right: 40%;
+    top: 30px;
+}
+#name{
+    position: relative;
+    right: 28%;
+    bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#name-d{
+    position: relative;
+    right: 12%;
+    bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.banner-details{
+    height: 400px;
+    width: 90%;
+}
+.banner-details h3{
+
+    position: relative;
+    right: 30%;
+}
+.banner-details p{
+    position: relative;
+    right: 3px;
+    top: 10px;
+}
+#babanner-details-p{
+    
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+#course{
+    margin-right: 250px;
+    margin-top: 20px;
+}
+#date{
+    margin-right: 200px;
+    margin-top: 10px;
+}
+#why{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+#tableau-d{
+    height: 150px;
+    width: 93%;
+    margin-left: 50px;
+    content: initial;
+}
+#learn{
+    margin-left: 30px;
+}
+#code{
+height: 30px;
+width: 10%;
+border-radius: 5px;
+background-color: lightgrey;
+position: relative;
+right: 70px;
+top: 20px;
+font-size: 15px;
+}
+#data{
+    height: 30px;
+width: 10%;
+border-radius: 5px;
+background-color: lightgrey;
+position: relative;
+right: 50px;
+top: 20px;
+font-size: 15px;
+}
+#group{
+    height: 30px;
+    width: 10%;
+    border-radius: 5px;
+    background-color: lightgrey;
+    position: relative;
+    right: 20px;
+    top: 20px;
+    font-size: 15px;
+}
+.c-like{
+    height: 40px;
+    width: 25%;
+   border: 1px solid gray;
+   border-radius: 8px;
+   position: relative;
+   left: 30px;
+   top: 100px;
+}
+.c-follow{
+    height: 40px;
+    width: 25%;
+   border: 1px solid gray;
+   border-radius: 8px;
+   position: relative;
+   left: 230px;
+   top: 60px;
+}
+.c-share{
+    height: 40px;
+    width: 25%;
+   border: 1px solid gray;
+   border-radius: 8px;
+   position: relative;
+   left: 420px;
+   top: 18px;
+}
+.c-like p{
+    margin-top: 10px;
+}
+.c-share p{
+    margin-top: 10px;
+}
+.c-follow p{
+    margin-top: 10px;
+}
+ 
+.c-comment{
+    height: 800px;
+    width: 50%;
+ 
+}
+
+.c-head{
+    height: 100px;
+    width: 95%;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+    margin-top: 30px;border-radius: 5px;
+}
+.c-head img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    right: 40%;
+    top: 20px;
+ 
+}
+.c-head p{
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f9f6f6;
+    position: relative;
+    bottom: 30px;
+    left: 130px;
+
+}
+.c-guid{
+    height: 300px;
+    width: 25%;
+    margin-top: 50px;
+    margin-right: 30px;
+   
+   
+}
+.c-guid h2{
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.guids{
+    height: 450px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+}
+.guid-one{
+    height: 130px;
+    width: 100%;
+    
+}
+.guid-one h2{
+    margin-right: 100px;
+    padding: 20px;
+}
+.guid-one img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+}
+.guid-one p{
+    position: relative;
+    bottom: 65px;
+}
+
+.guid-two{
+    height: 130px;
+    width: 100%;
+    
+}
+.guid-two h2{
+    margin-right: 150px;
+    padding: 20px;
+}
+.guid-two img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+    border-radius: 50%;
+}
+.guid-two p{
+    position: relative;
+    bottom: 65px;
+    margin-left: 30px;
+}
+
+.guid-three{
+    height: 130px;
+    width: 100%;
+    
+}
+.guid-three h2{
+    margin-right: 170px;
+    padding: 20px;
+}
+.guid-three img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+    border-radius: 50%;
+}
+.guid-three p{
+    position: relative;
+    bottom: 65px;
+    margin-right: 20px;
+  
+}

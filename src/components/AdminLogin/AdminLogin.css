@@ -1,0 +1,78 @@
+
+.MAIN{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* background-color: #c54040;  */
+   /* background-image: url("https://assets.architecturaldigest.in/photos/601a3b8f2814797e457e5e33/16:9/w_2560%2Cc_limit/School-architecture-institution.jpg"); */
+   background-image: url("https://img.freepik.com/premium-photo/computer-monitor-with-white-blank-screen-creative-office-supply-workspace_35674-2426.jpg");
+   background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+
+.login-form {
+  position: relative;
+  bottom: 10vh;
+  left: 1vw;
+  max-width: 400px;
+  padding: 15px 100px 15px 100px;
+  border: 1px solid #e0e0e000;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
+  background-color: #ffffff00;
+  text-align: center;
+}
+/* 
+.login-form {
+  max-width: 400px;
+  padding: 50px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+} */
+
+.login-heading {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #17bf9e;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-button:hover {
+  background-color: #1a9b81;
+}

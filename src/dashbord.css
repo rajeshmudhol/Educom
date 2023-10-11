@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.admin-dash-container{
+    width: 100%;
+    display: flex;
+    height: 750px;
+}
+.admin-dash-main{
+    width: 100%;
+    height: 650px;
+}
+.admin-dash-sub{
+    position: absolute;
+    /* background-color: #00000061; */
+    width: 100%;
+    height: 650px;
+    /* color: white; */
+   
+}

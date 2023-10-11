@@ -1,0 +1,72 @@
+.Log-in .container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg') center center/cover no-repeat; /* Set your image path here */
+  }
+  
+  .Log-in .center-container {
+    text-align: center;
+  }
+  #MainLogin{
+    color: white;
+  }
+  
+  .Log-in .card {
+    background-color: rgba(255, 255, 255, 0); /* Add a semi-transparent white background for better readability */
+    padding: 20px;
+    border-radius: 10px;
+    width: 38vw;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 33vh;
+    left: 22vw;
+  }
+  
+  .Log-in .button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .Log-in .button:hover {
+    background-color: #4caf50; /* Green on hover */
+  }
+  
+  .Log-in .admin-button {
+    background: linear-gradient(to right, #3498db, #2980b9);
+    transition: background 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  .Log-in .user-button {
+    background: linear-gradient(to right, #2ecc71, #27ae60);
+    transition: background 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  /* Hover effect */
+  .Log-in .admin-button:hover {
+    background: linear-gradient(to right, #1498ef, #1498ef);
+  }
+  
+  .Log-in .user-button:hover {
+    background: linear-gradient(to right, #0e9a48, #0e9a48);
+  }
+  
+  
+.Login-main {
+  background-image: url("https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzUxNDQ1OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0OTAxNjY1M30.iNjPV26zKDl_HaC38_jr_sODGR6tvsjMAlFQULOcFos/img.jpg?width=1200&height=800&quality=85&coordinates=0%2C0%2C0%2C0");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}

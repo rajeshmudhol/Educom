@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.edu-main{
+    width: 100%;
+    height: 100%;
+    background-color: #ecfcf2;
+}
+.banner-container{
+    height: 550px;
+    display: flex;
+    width: 100%;
+    background-color: WHITE;
+
+}
+.banner-head{
+    width:40%;
+    height: 550px;
+    margin-left: 50px;
+}
+.banner-head h2{
+    /* color: white; */
+    text-align: left;
+    margin-top: 90px;
+    font-size: 30px;
+}
+.banner-head h1{
+    /* color: white; */
+    text-align: left;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.banner-head b{
+    color: #17bf9e;
+}
+#button{
+ background-color: #17bf9e;   
+ border: none;
+ width: 30%;
+ height: 30px;
+ border-radius: 10px;
+ margin-top: 20px;
+ float: left;
+}
+.banner-image{
+    width: 50%;
+    height: 550px;
+    margin-left: 70px;
+}
+.banner-image img{
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+}
+.edu-category{
+    height: 100px;
+   
+    display: flex;
+}
+.edu-category-1{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}
+.edu-category-2{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}.edu-category-3{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}.edu-category-4{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}.edu-category-5{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}.edu-category-6{
+    width: 40%;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+/* recommendations */
+.recommend{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+
+}
+.recommend-sub{
+    width: 80%;
+    height: 150px;
+    background-color: skyblue;
+    border-radius: 15px;
+    position: relative;
+    left: 20vh;
+    top: 5vh;
+    text-align: left;
+}
+.recommend-sub h1{
+    position: relative;
+    left: 30px;
+}
+#rec{
+    background-color: white;
+    color: black;
+    border: none;
+    width: 20%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    left: 30px;
+}
